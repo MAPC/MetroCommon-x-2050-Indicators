@@ -8,7 +8,3 @@
 * [🚰 Residential Water Consumption](residential-water-consumption.md)
 * [👷♀ Job Growth by Sector](job-growth-by-sector.md)
 * [💰 Wage Growth by Sector](wage-growth-by-sector.md)
-
-## Group 1
-
-* [Goals](group-1/goals.md)

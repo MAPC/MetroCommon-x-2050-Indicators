@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/mc50_norwood-42.jpg
+coverY: 0
+---
+
 # MetroCommon x 2050 Indicators
 
 #### Related to MetroCommon x 2050 Goal A: <mark style="background-color:blue;">Getting Around the Region</mark>
