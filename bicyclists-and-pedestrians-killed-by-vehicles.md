@@ -1,8 +1,10 @@
 ---
 description: 'Goal A: Getting Around the Region'
+cover: .gitbook/assets/Test3.png
+coverY: 0
 ---
 
-# Bicyclists and Pedestrians Killed by Vehicles
+# 🚴♀ Bicyclists and Pedestrians Killed by Vehicles
 
 #### 34 fatalities in 2019, **9.6% increase since 2010, 10.5% decrease since 2018  **
 

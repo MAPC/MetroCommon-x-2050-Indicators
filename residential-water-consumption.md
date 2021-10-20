@@ -2,7 +2,7 @@
 description: 'Goal F: A Healthy Environment'
 ---
 
-# Residential Water Consumption
+# 🚰 Residential Water Consumption
 
 Per capita daily residential water usage:  &#x20;
 

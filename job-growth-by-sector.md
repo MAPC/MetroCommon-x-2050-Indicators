@@ -2,7 +2,7 @@
 description: 'Goal H: Economic Prosperity'
 ---
 
-# Job Growth by Sector
+# 👷♀ Job Growth by Sector
 
 #### Overall job growth, 2010 to 2019: <mark style="background-color:blue;">300,000 jobs (18%)</mark> &#x20;
 
@@ -23,10 +23,6 @@ description: 'Goal H: Economic Prosperity'
 
 * Manufacturing -4% &#x20;
 * Public Administration -6% &#x20;
-
-{% embed url="https://public.flourish.studio/visualisation/7585758" %}
-
-![](.gitbook/assets/Test3.png)
 
 ![](.gitbook/assets/test.PNG)
 

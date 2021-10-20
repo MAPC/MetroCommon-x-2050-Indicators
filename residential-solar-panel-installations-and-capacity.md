@@ -2,7 +2,7 @@
 description: 'Goal D: A Net Zero Carbon Region'
 ---
 
-# Residential Solar Panel Installations and Capacity
+# 🌤 Residential Solar Panel Installations and Capacity
 
 Installed residential photovoltaic capacity 2020: <mark style="background-color:green;">268MW</mark> &#x20;
 

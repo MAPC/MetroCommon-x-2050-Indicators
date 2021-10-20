@@ -1,4 +1,4 @@
-# Wage Growth by Sector
+# 💰 Wage Growth by Sector
 
 #### Overall wage growth: 12%, 2010 to 2019&#x20;
 
@@ -17,6 +17,8 @@
 
 * Education and Health Services: -2%
 * Natural Resources and Mining: -5% &#x20;
+
+{% embed url="https://public.flourish.studio/visualisation/7585758" %}
 
 ![](.gitbook/assets/test2.PNG)
 

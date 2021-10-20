@@ -2,7 +2,7 @@
 description: 'Goal C: A Climate-Resilient Region'
 ---
 
-# New Growth in Flood Zones
+# 🌊 New Growth in Flood Zones
 
 <mark style="background-color:green;">Total housing units 2010-2020, all flood zones: 13,000</mark> &#x20;
 

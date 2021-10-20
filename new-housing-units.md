@@ -2,7 +2,7 @@
 description: 'Goal B: Homes for All'
 ---
 
-# New Housing Units
+# 🏘 New Housing Units
 
 <mark style="background-color:orange;">High-income Mortgage Denial Rate Gaps by Race and Ethnicity</mark>&#x20;
 
