@@ -26,7 +26,7 @@ Our 2021 update to this travel time disparity indicator shows a few notable chan
 
 Despite the marginal closing of the Black and White bus commute gap, the reality is that commuting times are longer for everyone today than five years ago, and are longest for commuters of color. There is more work needed to understand the root cause of these disparities—lack of adequate transit service, jobs that are farther from home for workers of color than White workers, traffic that is worse along routes for commuters of color, or a combination of all of these and other factors. Whatever the causes, identifying and rectifying them is not only the right thing to do to improve transit equity, it will also make commuting better for everyone. In the words of Congresswoman Ayanna Pressley, “when we design our transportation systems to serve those most in need, we are better serving everyone in our society.”<mark style="background-color:orange;">5</mark>&#x20;
 
-_MetroCommon Goal: A.1,2,3,8 Getting Around the Region _
+_MetroCommon Goal: Getting Around the Region Goals A.1, A.2, A.3, and A.8 _
 
 _MetroCommon Recommendations: Improve accessibility and regional connectivity, Actions 1.1, 1.2, 1.3, 2.1, and 2.2_&#x20;
 

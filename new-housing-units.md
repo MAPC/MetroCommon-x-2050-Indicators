@@ -14,7 +14,7 @@ The production of new homes is curtailed by restrictive local regulations, high 
 
 The scale and urgency of this problem also means that we can’t wait until the next Census to see how the region is doing on its production goals. Municipalities can help by consistently reporting new building permits to the Census Bureau; maintaining accurate parcel and assessor records; and contributing to Massbuilds, MAPC’s collaborative inventory of development in the region.&#x20;
 
-_MetroCommon Goal: B.1,2,3,8 Housing for All _
+_MetroCommon Goal: Housing for All Goals B.1, B.2, B.3, and B.8 _
 
 _MetroCommon Recommendations: Accelerate the production of diverse housing types throughout the region, particularly deed-restricted Affordable Housing, with a focus on transit-oriented, climate resilient and other smart growth locations, all actions _
 

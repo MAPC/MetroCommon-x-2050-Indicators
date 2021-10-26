@@ -4,9 +4,7 @@ description: 'Goal H: Economic Prosperity'
 
 # 👷♀ Job Growth by Sector
 
-#### Overall job growth, 2010 to 2019: <mark style="background-color:blue;">300,000 jobs (18%)</mark> &#x20;
-
-#### Overall job growth, 2018 to 2019: <mark style="background-color:blue;">jobs (1.7%)</mark> &#x20;
+### Overall job growth, 2010 to 2019: <mark style="background-color:blue;">300,000 jobs (18%)</mark> &#x20;
 
 #### Growing sectors, 2010 to 2019:  
 
@@ -19,12 +17,12 @@ description: 'Goal H: Economic Prosperity'
 * Financial Activities: 5% &#x20;
 * Other Services: 1% &#x20;
 
-#### Declining sectors: &#x20;
+#### Declining sectors, 2010-2019: &#x20;
 
 * Manufacturing -4% &#x20;
 * Public Administration -6% &#x20;
 
-![](.gitbook/assets/test.PNG)
+![](<.gitbook/assets/image (5).png>)
 
 MetroCommon envisions a Metro Boston with a strong, diverse, and steadily growing economy: a thriving business ecosystem that includes locally owned stores, global companies, and everything in between. In this future, medical, education, and high-tech sectors continue to play an important role in our region, and they are fueled by a strong supply of workers supported by our education system and workforce development programs.
 
