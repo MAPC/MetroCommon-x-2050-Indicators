@@ -1,12 +1,12 @@
 ---
 description: 'Goal A: Getting Around the Region'
-cover: .gitbook/assets/Test3.png
-coverY: 0
 ---
 
 # 🚴♀ Bicyclists and Pedestrians Killed by Vehicles
 
-#### 34 fatalities in 2019, **9.6% increase since 2010, 10.5% decrease since 2018  **
+### <mark style="background-color:blue;">34 fatalities in 2019,</mark> <mark style="background-color:blue;">**9.6% increase since 2010, 10.5% decrease since 2018**</mark>**  **
+
+![](<.gitbook/assets/image (4).png>)
 
 A healthier, greener, and less-congested region can only be achieved if we increase the number of trips made by walking and biking. However, the safety risks associated with walking and biking in auto-dominated environments are a major deterrent to mode shift; and the pedestrian and bicyclist deaths caused by autos are both unacceptable and avoidable. MetroCommon embraces Vision Zero, a concept that seeks to eliminate pedestrian and bicyclist deaths entirely so that all residents feel comfortable biking or walking to get around.
 

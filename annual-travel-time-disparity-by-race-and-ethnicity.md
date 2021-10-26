@@ -4,19 +4,19 @@ description: 'Goal A: Getting Around the Region'
 
 # 🚍 Annual Travel Time Disparity by Race and Ethnicity
 
-****:oncoming\_bus: **Black-White bus commuter disparity: 50 hours (14 hours shorter than in 2016) **
+#### ****:oncoming\_bus: **Black-White bus commuter disparity: 50 hours (14 hours shorter than in 2016) **
 
-****:oncoming\_bus: **Latinx-White bus commuter disparity: 24 hours (14 hours longer than in 2016) **
+#### <mark style="background-color:blue;">****</mark>:oncoming\_bus: **Latinx-White bus commuter disparity: 24 hours (14 hours longer than in 2016) **
 
-****:metro:**Black-White subway commuter disparity: 46 hours (15 hours longer than in 2016) **
+#### ****:metro:**Black-White subway commuter disparity: 46 hours (15 hours longer than in 2016) **
 
-****:metro:**Latinx-White subway commuter disparity: -5 hours (2 hours longer than in 2016) **
+#### ****:metro:**Latinx-White subway commuter disparity: -5 hours (2 hours longer than in 2016) **
 
-****:oncoming\_automobile:**Black-White auto commuter disparity: 11 hours (10 hours longer than in 2016) **
+#### ****:oncoming\_automobile:**Black-White auto commuter disparity: 11 hours (10 hours longer than in 2016) **
 
-****:oncoming\_automobile:**Latinx-White auto commuter disparity: -16 hours (11 hours longer than in 2016) **
+#### ****:oncoming\_automobile:**Latinx-White auto commuter disparity: -16 hours (11 hours longer than in 2016) **
 
-&#x20;
+![](<.gitbook/assets/image (1).png>)
 
 The ability to get to work consistently on time is a basic but essential necessity for maintaining gainful employment. Yet, traffic in Greater Boston was rated worst for gridlock in the country in 2019 and 2018,<mark style="background-color:orange;">1</mark> and as our public transit systems age and fail to expand with growing demand, those who rely on public transit—who are more likely than drivers to be commuters of color—experience even longer travel times and less predictability than drivers. &#x20;
 

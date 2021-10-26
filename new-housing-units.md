@@ -4,7 +4,7 @@ description: 'Goal B: Homes for All'
 
 # 🏘 New Housing Units
 
-**New housing units built 2010 to 2020: 104,000, 8% over total 2010 units**
+### **New housing units built 2010 to 2020: 104,000, 8% over total 2010 units**
 
 Greater Boston remains one of the most expensive housing markets in the nation for both owners and renters. One principal reason for the high cost of housing is that production of new units simply has not kept up with the growth in demand. The region’s robust economy has attracted many new residents and has led to growing income disparities \[see Economic Prosperity indicators]. If the availability of new homes and turnover of existing units is not sufficient to meet growing demand, higher income households bid up the cost of available units, as demonstrated by the proliferation of over-asking sale prices. The high cost of units may also deter individuals from forming their own households and contributes to an increase in the number of roommate households who can easily outbid low- and even moderate-income families for the few family-sized units that are available.<mark style="background-color:orange;">1</mark> &#x20;
 
