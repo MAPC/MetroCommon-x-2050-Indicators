@@ -7,6 +7,10 @@ coverY: 0
 
 #### Related to MetroCommon x 2050 Goal A: <mark style="background-color:blue;">Getting Around the Region</mark>
 
+{% content-ref url="annual-travel-time-disparity-by-race-and-ethnicity.md" %}
+[annual-travel-time-disparity-by-race-and-ethnicity.md](annual-travel-time-disparity-by-race-and-ethnicity.md)
+{% endcontent-ref %}
+
 {% content-ref url="bicyclists-and-pedestrians-killed-by-vehicles.md" %}
 [bicyclists-and-pedestrians-killed-by-vehicles.md](bicyclists-and-pedestrians-killed-by-vehicles.md)
 {% endcontent-ref %}
@@ -15,6 +19,10 @@ coverY: 0
 
 {% content-ref url="new-housing-units.md" %}
 [new-housing-units.md](new-housing-units.md)
+{% endcontent-ref %}
+
+{% content-ref url="high-income-mortgage-denial-rate-gaps-by-race-and-ethnicity.md" %}
+[high-income-mortgage-denial-rate-gaps-by-race-and-ethnicity.md](high-income-mortgage-denial-rate-gaps-by-race-and-ethnicity.md)
 {% endcontent-ref %}
 
 #### Related to MetroCommon x 2050 Goal C: <mark style="background-color:green;">A Climate-Resilient Region</mark>&#x20;
