@@ -4,9 +4,9 @@ description: 'Goal C: A Climate-Resilient Region'
 
 # 🌊 New Growth in Flood Zones
 
-### **Housing units built in 1% annual flood zones 2010-2020: 9,000 (69% of total units in a flood zone)  **
+### **Housing units built in 1% annual flood zones 2010-2020: 9,000**
 
-### **Commercial square feet built in 1% annual flood zones 2010-2020: 9 million (60% of total commercial square feet in a flood zone)  **
+### **Commercial square feet built in 1% annual flood zones 2010-2020: 9 million **
 
 Part of what animates MetroCommon is the urgency of climate change and the need to prepare for more extreme weather events. More frequent and severe flooding, among other climate-associated threats, will pose serious risks for the region.
 
