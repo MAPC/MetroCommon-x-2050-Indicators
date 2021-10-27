@@ -26,9 +26,7 @@ Generally, more urbanized municipalities have lower residential water usage rate
 
 Whether the 2020 trends simply reflect a transference of water usage from the workplace to the home, we have yet to determine. Regardless, it’s clear that as the state’s population continues to grow and has more people drawing off its water reserves, and as climate change continues to make weather less predictable, it is critical that the state, region, municipalities, and residents work together to protect our water resources.
 
-While the actions of individuals to reduce their personal and household water use are critical, it is the responsibility of state and local leaders to create the programs, strategies, and guidelines that encourage, and when necessary, enforce conservation. These strategies should include a more holistic and interdisciplinary approach to water management at the state level; the establishment of a “Blue Bank” – a statewide water infrastructure bank to provide adequate capital investment for municipal and regional water supply, wastewater, stormwater, and green infrastructure – and an approach to water management that prioritizes equity.
-
-For more detailed recommendations, see MetroCommon’s recommendation \[<mark style="background-color:orange;">Address regional water challenges</mark>].&#x20;
+While the actions of individuals to reduce their personal and household water use are critical, it is the responsibility of state and local leaders to create the programs, strategies, and guidelines that encourage, and when necessary, enforce conservation. These strategies should include a more holistic and interdisciplinary approach to water management at the state level; the establishment of a “Blue Bank” – a statewide water infrastructure bank to provide adequate capital investment for municipal and regional water supply, wastewater, stormwater, and green infrastructure – and an approach to water management that prioritizes equity.&#x20;
 
 _**MetroCommon goals:** A Climate Resilient Region goal C.6, A Healthy Environment goal F.1 _
 
