@@ -14,7 +14,7 @@ description: 'Goal F: A Healthy Environment'
 
 **Maturing Suburb municipalities: 64 rgpcd, 2020 (6% less than in 2010)**
 
-![](<.gitbook/assets/image (2).png>)
+![](<.gitbook/assets/image (8).png>)
 
 During the humid days of summer and the snowy days of winter, it can be hard to imagine that Greater Boston’s water is a limited resource, but it can be. In the summer and fall of 2016, Massachusetts experienced the most severe drought it had seen since 1985, and in 2020 several regions of the state again experienced drought conditions.
 

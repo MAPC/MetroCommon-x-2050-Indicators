@@ -22,7 +22,7 @@ description: 'Goal H: Economic Prosperity'
 * Manufacturing -4% &#x20;
 * Public Administration -6% &#x20;
 
-![](<.gitbook/assets/image (5).png>)
+![](<.gitbook/assets/image (9).png>)
 
 MetroCommon envisions a Metro Boston with a strong, diverse, and steadily growing economy: a thriving business ecosystem that includes locally owned stores, global companies, and everything in between. In this future, medical, education, and high-tech sectors continue to play an important role in our region, and they are fueled by a strong supply of workers supported by our education system and workforce development programs.
 
