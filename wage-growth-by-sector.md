@@ -26,6 +26,6 @@ Wages rebounded 11 to 13 percent in low-wage industries (Trade, Transportation a
 
 While wages aren’t everything (benefits, predictability, and safety matter, as well) raising wages across jobs in lower-paying industries is essential to closing income disparities. Some of the gains in lower-wage sectors such as Leisure and Hospitality is likely a result of legislation in 2015 and again in 2019 to incrementally raise the Massachusetts minimum wage from $8 in 2015 to $15 in 2023. Further legislation such as this is needed to provide the support lower-wage workers need to keep up with the rapidly rising wages of higher-wage industries. Equally important are efforts to balance the relative burden of wage disparity through taxation and benefit restructuring.&#x20;
 
-_MetroCommon Goals: Economic Security Goals G.1 and G.4_
+_**MetroCommon Goals:** Economic Security Goals G.1 and G.4_
 
-_MetroCommon Recommendations: Enable Wealth Creation and Intergenerational Wealth Transfer, Action 3.1, 3.2_
+_**MetroCommon Recommendations:** Enable Wealth Creation and Intergenerational Wealth Transfer, Action 3.1, 3.2_

@@ -32,8 +32,8 @@ Other industries, including Finance, Public Administration, and Trade, Transport
 
 These sector trends over the last decade show a region with a growing economy, but one that is increasingly driven by high-wage knowledge economies and the lower-wage industries that support them, exacerbating already wide income disparities.
 
-The dominance of the Education and Health Services sector for the last two decades has brought stability and prosperity to the region’s economy, but will it last? The pressure of ballooning student debt \[link to driving forces] and the uncertainty of federal changes to healthcare policy \[driving forces] suggest that changes could be in store in the coming decades. Industry leaders and policy makers would be wise to recognize and get ahead of these potential shifts, while also building the workforce development infrastructure needed to prepare the region’s next generation of workers.&#x20;
+The dominance of the Education and Health Services sector for the last two decades has brought stability and prosperity to the region’s economy, but will it last? The pressure of ballooning student debt \[<mark style="background-color:orange;">link to driving forces</mark>] and the uncertainty of federal changes to healthcare policy \[<mark style="background-color:orange;">driving forces</mark>] suggest that changes could be in store in the coming decades. Industry leaders and policy makers would be wise to recognize and get ahead of these potential shifts, while also building the workforce development infrastructure needed to prepare the region’s next generation of workers.&#x20;
 
-_MetroCommon Goal: Goal H: Greater Boston’s economy benefits all in the region. _
+_**MetroCommon Goal:** Goal H: Greater Boston’s economy benefits all in the region. _
 
-_MetroCommon Recommendations: Improve the accessibility and efficacy of the Commonwealth’s workforce development infrastructure, Actions 2.1, 2.2, 3.1_&#x20;
+_**MetroCommon Recommendations:** Improve the accessibility and efficacy of the Commonwealth’s workforce development infrastructure, Actions 2.1, 2.2, 3.1_&#x20;

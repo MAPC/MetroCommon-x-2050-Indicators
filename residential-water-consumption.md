@@ -30,6 +30,6 @@ While the actions of individuals to reduce their personal and household water us
 
 For more detailed recommendations, see MetroCommon’s recommendation \[<mark style="background-color:orange;">Address regional water challenges</mark>].&#x20;
 
-_MetroCommon goals: A Climate Resilient Region goal C.6, A Healthy Environment goal F.1 _
+_**MetroCommon goals:** A Climate Resilient Region goal C.6, A Healthy Environment goal F.1 _
 
-_MetroCommon Recommendation: Address regional water challenges, actions 1.1, 1,2, 1.4, 2.1, 2.3, 3.3, 4.1, 4.2, 4.3, 4.4_
+_**MetroCommon Recommendation:** Address regional water challenges, actions 1.1, 1,2, 1.4, 2.1, 2.3, 3.3, 4.1, 4.2, 4.3, 4.4_

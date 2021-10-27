@@ -8,7 +8,7 @@ description: 'Goal B: Homes for All'
 
 Greater Boston remains one of the most expensive housing markets in the nation for both owners and renters – to a large extent because production of new units has not kept up with the growth in demand.
 
-The region enjoys a robust economy that has attracted many new residents, but we also suffer growing income disparities \[see <mark style="background-color:orange;">Economic Prosperity indicators</mark>] – disparities the housing shortage exacerbates. When demand outstrips the supply of units, those who can afford to do so bid up the cost of what’s available. This is as demonstrated by the proliferation of over-asking sale prices.
+The region enjoys a robust economy that has attracted many new residents, but we also suffer growing income disparities \[see [Economic Prosperity indicators](job-growth-by-sector.md)] – disparities the housing shortage exacerbates. When demand outstrips the supply of units, those who can afford to do so bid up the cost of what’s available. This is as demonstrated by the proliferation of over-asking sale prices.
 
 High bidders can be higher-income families, of course, but also roommate households composed of individuals deterred by the high cost of living on their own. Roommate households can easily outbid low- and even moderate-income families for the few family-sized units that are available.\[1]&#x20;
 
@@ -18,9 +18,9 @@ The production of new homes is curtailed by restrictive local regulations, high 
 
 The scale and urgency of this problem also means that we can’t wait until the next Census to see how the region is doing on its production goals. Municipalities can help by consistently reporting new building permits to the Census Bureau; maintaining accurate parcel and assessor records; and contributing to Massbuilds, MAPC’s collaborative inventory of development in the region.
 
-_MetroCommon Goal: Housing for All Goals B.1, B.2, B.3, and B.8 _
+_**MetroCommon Goal:** Housing for All Goals B.1, B.2, B.3, and B.8 _
 
-_MetroCommon Recommendations: Accelerate the production of diverse housing types throughout the region, particularly deed-restricted Affordable Housing, with a focus on transit-oriented, climate resilient and other smart growth locations, all actions _
+_**MetroCommon Recommendations:** Accelerate the production of diverse housing types throughout the region, particularly deed-restricted Affordable Housing, with a focus on transit-oriented, climate resilient and other smart growth locations, all actions _
 
 #### Footnotes:
 

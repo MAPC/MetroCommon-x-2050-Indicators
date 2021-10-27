@@ -4,9 +4,9 @@ description: 'Goal C: A Climate-Resilient Region'
 
 # 🌊 New Growth in Flood Zones
 
-<mark style="background-color:green;">**Housing units built in 1% annual flood zones 2010-2020: 9,000 (69% of total units in a flood zone)  **</mark>
+### **Housing units built in 1% annual flood zones 2010-2020: 9,000 (69% of total units in a flood zone)  **
 
-<mark style="background-color:green;">**Commercial square feet built in 1% annual flood zones 2010-2020: 9 million (60% of total commercial square feet in a flood zone)  **</mark>
+### **Commercial square feet built in 1% annual flood zones 2010-2020: 9 million (60% of total commercial square feet in a flood zone)  **
 
 Part of what animates MetroCommon is the urgency of climate change and the need to prepare for more extreme weather events. More frequent and severe flooding, among other climate-associated threats, will pose serious risks for the region.
 
@@ -20,6 +20,6 @@ Future analysis using sea level rise projections will allow us to better underst
 
 Local officials can minimize future risk by discouraging flood-prone development using tools such as zoning to restrict development in current or future flood zones, and participation in the state’s [Municipal Vulnerability Preparedness program](https://www.mass.gov/municipal-vulnerability-preparedness-mvp-program). State permitting should be updated with standards that reflect projected climate conditions for the life of any project. Importantly, to have the clearest insight into where flooding is most likely, we must have access to accurate flooding data from FEMA and other sources, which provide transparent methods and limitations of their data.&#x20;
 
-_MetroCommon Goals: Goal C.4: Metro Boston is prepared for – and resilient to – the impacts of climate change _
+_**MetroCommon Goals:** Metro Boston is prepared for – and resilient to – the impacts of climate change, Goal C.4_
 
-_MetroCommon Recommendations: Prepare for and respond to the threats of climate change, Action 1.3, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3_
+_**MetroCommon Recommendations:** Prepare for and respond to the threats of climate change, Action 1.3, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3_
