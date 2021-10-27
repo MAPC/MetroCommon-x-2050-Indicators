@@ -31,11 +31,19 @@ coverY: 0
 [new-growth-in-flood-zones.md](new-growth-in-flood-zones.md)
 {% endcontent-ref %}
 
+#### Related to MetroCommon x 2050 Goal D: <mark style="background-color:yellow;">A Net Zero Carbon Region</mark>
+
 {% content-ref url="residential-solar-panel-installations-and-capacity.md" %}
 [residential-solar-panel-installations-and-capacity.md](residential-solar-panel-installations-and-capacity.md)
 {% endcontent-ref %}
 
-#### Related to MetroCommon x 2050 Goal H: <mark style="background-color:yellow;">Economic Prosperity</mark>
+#### Related to MetroCommon x 2050 Goal F: <mark style="background-color:red;">A Healthy Environment</mark>
+
+{% content-ref url="residential-water-consumption.md" %}
+[residential-water-consumption.md](residential-water-consumption.md)
+{% endcontent-ref %}
+
+#### Related to MetroCommon x 2050 Goal H: <mark style="background-color:purple;">Economic Prosperity</mark>
 
 {% content-ref url="job-growth-by-sector.md" %}
 [job-growth-by-sector.md](job-growth-by-sector.md)

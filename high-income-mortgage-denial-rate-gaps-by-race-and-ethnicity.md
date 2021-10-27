@@ -4,13 +4,13 @@ description: 'Goal B: Homes for All'
 
 # 🏘 High-Income Mortgage Denial Rate Gaps by Race and Ethnicity
 
-### **Black-White gap, 2020: 13 percentage points, no change since 2015  **
+### **Black-White gap, 2020: 13 percentage points, 4 points lower than 2010  **
 
-### **Latinx-White gap, 2020: 10 points, 3 points higher than 2015  **
+### **Latinx-White gap, 2020: 10 points, 1 point higher than 2010  **
 
-### **Asian-White gap, 2020: 2 points, 1 point higher than 2015  **
+### **Asian-White gap, 2020: 2 points, 2 points higher than 2010  **
 
-### **Native American-White gap, 2020: 2 points, 3 points lower than 2015  **
+### **Native American-White gap, 2020: 2 points, 7 points lower than 2010  **
 
 ![](<.gitbook/assets/image (3).png>)
 
